@@ -1,2 +1,2 @@
 # Lab-Recorder
-Record streams from LSL into an .xdf file. 
+Qt Creator project to record streams from LSL into an .xdf file. 
